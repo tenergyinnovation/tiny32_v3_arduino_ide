@@ -25,6 +25,7 @@
 #define RXD2    16
 #define TXD2    17
 #define BUILTIN_LED 2
+#define LED_BUILTIN 2
 
 static const uint8_t daysInMonth [] PROGMEM = { 31,28,31,30,31,30,31,31,30,31,30,31 };
 

@@ -66,6 +66,7 @@ public:
 #define SLID_SW 36
 #define BUZZER 13
 #define BUILTIN_LED 2
+#define LED_BUILTIN 2
 
     tiny32_v3(/* args */);
     void Relay(bool state);
