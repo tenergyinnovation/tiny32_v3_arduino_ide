@@ -65,6 +65,7 @@ public:
 #define LED_IO12 12
 #define SLID_SW 36
 #define BUZZER 13
+#define LED_BUILDIN 2
 
     tiny32_v3(/* args */);
     void Relay(bool state);
